@@ -3,9 +3,10 @@
 ## Profile Kelompok
 
 KETUA : Erlan Nurhaditia (220660121025)
-ANGGOTA : - Muhammad Ghianza Al Ghifari (220660121058)
-          - Naufal Fauzan Hisyam (220660121167)
-          - Feriyadi Akbar Siregar (220660121201)          
+<br>ANGGOTA : 
+<br>- Muhammad Ghianza Al Ghifari (220660121058)
+<br>- Naufal Fauzan Hisyam (220660121167)
+<br>- Feriyadi Akbar Siregar (220660121201)          
 
 ## Tentang Aplikasi
 
